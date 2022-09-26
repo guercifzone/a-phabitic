@@ -1,0 +1,10 @@
+C:\Users\sadik-fattah\AppData\Local\Temporary Projects\APHABITIC v.2\bin\Debug\APHABITIC v.2.exe.config
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\bin\Debug\APHABITIC v.2.exe.config
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\bin\Debug\APHABITIC v.2.exe
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\bin\Debug\APHABITIC v.2.pdb
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\obj\Debug\APHABITIC v.2.csprojResolveAssemblyReference.cache
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\obj\Debug\APHABITIC_v._2.Form1.resources
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\obj\Debug\APHABITIC_v._2.Properties.Resources.resources
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\obj\Debug\APHABITIC v.2.csproj.GenerateResource.Cache
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\obj\Debug\APHABITIC v.2.exe
+C:\Users\sadik-fattah\Documents\Visual Studio 2015\Projects\APHABITIC v.2\APHABITIC v.2\obj\Debug\APHABITIC v.2.pdb
